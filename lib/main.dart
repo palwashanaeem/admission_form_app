@@ -41,7 +41,7 @@ class HomeScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Icon(Icons.school, size: 100, color: Colors.purple),
-              SizedBox(height: 20),
+              SizedBox(height: 30),
               Text(
                 'Start Your Admission Process',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
